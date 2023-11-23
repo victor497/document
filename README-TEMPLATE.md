@@ -30,7 +30,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Chegamos até o responsável do instituto tea pois de pronto identificamos alguns pontos que poderiam atrapalhar o desenvolvimento do mesmo, pois devido ao quadro de colaboradores limitados do instituto notamos a ausência de informações básicas para contato ou ajuda de doadores ou colaboradores. Nosso projeto tem o intuito de aproximar o instituto de futuros pacientes, colaboradores ou doadores. Nosso site tenta apresentar de forma clara e intuitiva todos os serviços desenvolvidos e prestados na instituição. O site tenta apresentar um “cartão de visitas” que aproxime todos os interessados do instituto. O site foi feito e direcionado para pessoas de todas as faixa etárias que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto.
 </p>
 
 ## Funcionalidades
