@@ -95,12 +95,6 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 
 ... 
 
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
