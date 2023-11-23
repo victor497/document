@@ -112,7 +112,7 @@ Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo 
 
 ## Resolvendo Problemas :exclamation:
 
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+O stick holder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet. 
 
 ## Tarefas em aberto
 
