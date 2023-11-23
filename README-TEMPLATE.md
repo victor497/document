@@ -1,8 +1,8 @@
 <h1>Projeto de um site para o instituto TEA Sergipe</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=html&message=framework&color=blue&style=for-the-badge&logo=html"/>
-  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/static/v1?label=botstrap&message=framework&color=blue&style=for-the-badge&logo=botstrap"/>
+  <img src="https://img.shields.io/static/v1?label=github&message=deploy&color=blue&style=for-the-badge&logo=github"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
