@@ -37,13 +37,10 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Formulário de inscrição  
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: mapa com localização do instituto  
 
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
 
 ## Layout ou Deploy da Aplicação :dash:
 
