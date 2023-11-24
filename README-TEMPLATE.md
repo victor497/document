@@ -58,13 +58,9 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 // Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação //
 
-## Como rodar a aplicação :arrow_forward:
+## Como rodar a aplicação do site
 
-Colocar o link do site para poder rodar: 
-
-```
-git clone https:
-```
+ O link do site para poder rodar: https://filipemnz.github.io/institutoteasergipe/
 
 
 ## Diagrama de Casos de Uso
