@@ -27,9 +27,9 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Visão geral
-
-## Descrição do projeto 
 Chegamos até o responsável do instituto tea pois de pronto identificamos alguns pontos que poderiam atrapalhar o desenvolvimento do mesmo, pois devido ao quadro de colaboradores limitados do instituto notamos a ausência de informações básicas para contato ou ajuda de doadores ou colaboradores.Segundo o órgão de saúde Centers for Disease Control and Prevention (CDC), em 2000, os Estados Unidos registraram um caso de autismo a cada 150 crianças observadas. Em 2020, houve um salto gigantesco: um caso do transtorno a cada 36 crianças. Entretanto,nosso projeto tem o intuito de aproximar o instituto de futuros pacientes, colaboradores ou doadores.
+## Descrição do projeto 
+
 <p align="justify">
   Nosso site tenta apresentar de forma clara e intuitiva todos os serviços desenvolvidos e prestados na instituição. 
 </p>  
