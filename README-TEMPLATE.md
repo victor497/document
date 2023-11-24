@@ -26,6 +26,8 @@
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
+## Visão geral
+
 ## Descrição do projeto 
 
 <p align="justify">
@@ -34,12 +36,9 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
  <p> O site tenta apresentar um “cartão de visitas” que aproxime todos os interessados do instituto. O site foi feito e direcionado para pessoas de todas as faixa etárias que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto. O instituto que estamos realizando o site é uma sede que está em Aracaju - Sergipe.
 </p>
 
-## Funcionalidades
+## Requisitos Funcionais
 
-:heavy_check_mark: Formulário de inscrição  
-
-:heavy_check_mark: mapa com localização do instituto  
-
+## Requisitos não funcionais
 
 ## Layout ou Deploy da Aplicação :dash:
 
@@ -48,6 +47,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ... 
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+
+
 
 ## Pré-requisitos
 
@@ -66,22 +67,15 @@ git clone https:
 ```
 
 
-## Casos de Uso
+## Diagrama de Casos de Uso
 
 O site é para pessoas que estão procurando um meio de realizar doações ou participar de alguma forma do instituto. 
 
-## JSON :floppy_disk:
 
 
 
-## Linguagens, dependencias e libs utilizadas :books:
 
-- [html](https://developer.mozilla.org/pt-BR/docs/learn/getting_started_with_the_web/html_basics)
-- [css](https://react-pdf.org/)
 
-...
-
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
 
 ## Resolvendo Problemas :exclamation:
 
