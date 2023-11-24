@@ -52,7 +52,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
-:warning: [javascript]([https://nodejs.org/en/download/](https://www.java.com/pt-BR/download/ie_manual.jsp))
+:warning: [javascript](https://www.java.com/pt-BR/download/ie_manual.jsp)
 
 ...
 
