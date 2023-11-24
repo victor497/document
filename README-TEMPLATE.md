@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=bootstrap&message=framework&color=blue&style=for-the-badge&logo=bootstrap"/>
   <img src="https://img.shields.io/static/v1?label=github&message=deploy&color=blue&style=for-the-badge&logo=github"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=JavaScript&message= ECMAScript 2022&color=red&style=for-the-badge&logo=javascript"/>
+  <img src="http://img.shields.io/static/v1?label=JavaScript&message= ECMAScript 2021&color=red&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=concluido&color=RED&style=for-the-badge"/>
 </p>
