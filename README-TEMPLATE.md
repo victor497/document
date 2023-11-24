@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=bootstrap&message=framework&color=blue&style=for-the-badge&logo=bootstrap"/>
   <img src="https://img.shields.io/static/v1?label=github&message=deploy&color=blue&style=for-the-badge&logo=github"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=JavaScript&message= ECMAScript 2021&color=red&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=concluido&color=RED&style=for-the-badge"/>
@@ -102,11 +101,4 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: 
 
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: Ano - Titulo do Projeto
