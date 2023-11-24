@@ -52,37 +52,24 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
+:warning: Nevegador para acessar a internet
+
 :warning: [javascript](https://www.java.com/pt-BR/download/ie_manual.jsp)
 
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
+// Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação //
 
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal, clone o projeto: 
+Colocar o link do site para poder rodar: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https:
 ```
 
-... 
-
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
-
-## Como rodar os testes
-
-Coloque um passo a passo para executar os testes
-
-```
-$ npm test, rspec, etc 
-```
 
 ## Casos de Uso
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
+O site é para pessoas que estão procurando um meio de realizar doações ou participar de alguma forma do instituto. 
 
 ## JSON :floppy_disk:
 
@@ -90,8 +77,8 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+- [html](https://developer.mozilla.org/pt-BR/docs/learn/getting_started_with_the_web/html_basics)
+- [css](https://react-pdf.org/)
 
 ...
 
