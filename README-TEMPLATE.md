@@ -70,7 +70,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Resolvendo Problemas :exclamation:
 
-O stakeholder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet. 
+O stakeholder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet e pelas redes do Instituto TEA Brasil.
 
 ## Tarefas em aberto
 
