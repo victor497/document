@@ -45,7 +45,7 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 
 
 ## Layout ou Deploy da Aplicação :dash:
-
+<img src="https://i.imgur.com/yB2C5n6.jpg" title="source: imgur.com" />
 > Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
 ... 
