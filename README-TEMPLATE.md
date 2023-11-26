@@ -35,11 +35,11 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 </p>
 
 ## Requisitos Funcionais
--Inserir dados no Formulário de Pré cadastro;
--Realizar doações através do QR code e do codigo do pix;
--Consultar a localização do instituto;
--Acessar os links por redirecionamento nos ícones das redes sociais;
--Visualizar e realizar o cadastro no formulário de vagas de voluntáriado.
+<p>-Inserir dados no Formulário de Pré cadastro;</p>
+<p>-Realizar doações através do QR code e do codigo do pix;</p>
+<p>-Consultar a localização do instituto;</p>
+<p>-Acessar os links por redirecionamento nos ícones das redes sociais;</p>
+<p>-Visualizar e realizar o cadastro no formulário de vagas de voluntáriado.</p>
 
 ## Requisitos não funcionais
 
