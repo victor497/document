@@ -22,12 +22,8 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Visão geral
-Chegamos até o responsável do instituto tea pois de pronto identificamos alguns pontos que poderiam atrapalhar o desenvolvimento do mesmo, pois devido ao quadro de colaboradores limitados do instituto notamos a ausência de informações básicas para contato ou ajuda de doadores ou colaboradores.Segundo o órgão de saúde Centers for Disease Control and Prevention (CDC), em 2000, os Estados Unidos registraram um caso de autismo a cada 150 crianças observadas. Em 2020, houve um salto gigantesco: um caso do transtorno a cada 36 crianças. Entretanto,nosso projeto tem o intuito de aproximar o instituto de futuros pacientes, colaboradores ou doadores.
+<p>Chegamos até o responsável do instituto tea pois de pronto identificamos alguns pontos que poderiam atrapalhar o desenvolvimento do mesmo, pois devido ao quadro de colaboradores limitados do instituto notamos a ausência de informações básicas para contato ou ajuda de doadores ou colaboradores.Segundo o órgão de saúde Centers for Disease Control and Prevention (CDC), em 2000, os Estados Unidos registraram um caso de autismo a cada 150 crianças observadas. Em 2020, houve um salto gigantesco: um caso do transtorno a cada 36 crianças. Entretanto,nosso projeto tem o intuito de aproximar o instituto de futuros pacientes, colaboradores ou doadores.</p>
 ## Descrição do projeto 
 
  
@@ -35,6 +31,7 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 </p>
 
 ## Requisitos Funcionais
+
 <p>-Inserir dados no Formulário de Pré cadastro;</p>
 <p>-Realizar doações através do QR code e do codigo do pix;</p>
 <p>-Consultar a localização do instituto;</p>
@@ -48,13 +45,7 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 
 <img src="https://i.imgur.com/yB2C5n6.jpg"/>
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-
 
 ## Pré-requisitos
 
@@ -68,24 +59,15 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
  O link do site para poder rodar: https://filipemnz.github.io/institutoteasergipe/
 
-
 ## Diagrama de Casos de Uso
 
-O site é para pessoas que estão procurando um meio de realizar doações ou participar de alguma forma do instituto. 
-
-
-
-
-
-
+...
 
 ## Resolvendo Problemas :exclamation:
 
 O stakeholder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet. 
 
 ## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
 :memo: Ainda gostariamos de agregar ao site funcionalidades como login, para que os pacientes ou colaboradores consigam acompanhar o andamento de solicitações, consultas, retornos.
 
@@ -95,6 +77,8 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
-
-
+<p>• Cauã Cruz de Araújo</p>
+<p>• Filipe Cesar dos Santos Menezes </p>
+<p>• João Victor de Oliveira Souza</p>
+<p>• Marcelo Lima de Souza Santos</p>
+<p>• Victor Luiz Vitoriano Amaral Santos/p>
