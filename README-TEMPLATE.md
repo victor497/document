@@ -55,8 +55,6 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 :warning: [javascript](https://www.java.com/pt-BR/download/ie_manual.jsp)
 
-// Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação //
-
 ## Como rodar a aplicação do site
 
  O link do site para poder rodar: https://filipemnz.github.io/institutoteasergipe/
@@ -72,10 +70,6 @@ O stakeholder atrasou no envio de informações básicas para o desenvolvimento 
 ## Tarefas em aberto
 
 :memo: Ainda gostariamos de agregar ao site funcionalidades como login, para que os pacientes ou colaboradores consigam acompanhar o andamento de solicitações, consultas, retornos.
-
-:memo: Adicionar Ebooks do instituto.
-
-:memo: Acrescentar um mural com, notícias, eventos, avisos ou qualquer outro tipo de atividade que a instituição promova. 
 
 ## Desenvolvedores/Contribuintes :octocat:
 
