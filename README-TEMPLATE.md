@@ -35,8 +35,14 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 </p>
 
 ## Requisitos Funcionais
+-Inserir dados no Formulário de Pré cadastro;
+-Realizar doações através do QR code e do codigo do pix;
+-Consultar a localização do instituto;
+-Acessar os links por redirecionamento nos ícones das redes sociais;
+-Visualizar e realizar o cadastro no formulário de vagas de voluntáriado.
 
 ## Requisitos não funcionais
+
 
 ## Layout ou Deploy da Aplicação :dash:
 
