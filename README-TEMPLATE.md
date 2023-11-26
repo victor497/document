@@ -79,8 +79,8 @@ O stakeholder atrasou no envio de informações básicas para o desenvolvimento 
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-<p>• Cauã Cruz de Araújo</p>
-<p>• Filipe Cesar dos Santos Menezes </p>
-<p>• João Victor de Oliveira Souza</p>
-<p>• Marcelo Lima de Souza Santos</p>
-<p>• Victor Luiz Vitoriano Amaral Santos/p>
+<p>• Cauã Cruz de Araújo;</p>
+<p>• Filipe Cesar dos Santos Menezes;</p>
+<p>• João Victor de Oliveira Souza;</p>
+<p>• Marcelo Lima de Souza Santos;</p>
+<p>• Victor Luiz Vitoriano Amaral Santos.</p>
