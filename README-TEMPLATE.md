@@ -81,7 +81,7 @@ O site é para pessoas que estão procurando um meio de realizar doações ou pa
 
 ## Resolvendo Problemas :exclamation:
 
-O stick holder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet. 
+O stakeholder atrasou no envio de informações básicas para o desenvolvimento e foi resolvido através de buscas pela internet. 
 
 ## Tarefas em aberto
 
