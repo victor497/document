@@ -1,3 +1,4 @@
+
 <h1>Projeto do site Instituto TEA Sergipe</h1> 
 
 <p align="center">
@@ -53,14 +54,14 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-<a href="https://imgur.com/MFTZsmR"><img src="https://i.imgur.com/MFTZsmR.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/zCnOj5Y"><img src="https://i.imgur.com/zCnOj5Y.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/PY3xCky"><img src="https://i.imgur.com/PY3xCky.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/LfyoDWp"><img src="https://i.imgur.com/LfyoDWp.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/ReRyBmz"><img src="https://i.imgur.com/ReRyBmz.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/Gwiqrik"><img src="https://i.imgur.com/Gwiqrik.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/MtvvXyW"><img src="https://i.imgur.com/MtvvXyW.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/WhxwJde"><img src="https://i.imgur.com/WhxwJde.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/MFTZsmR.png"/>
+<img src="https://i.imgur.com/zCnOj5Y.png"/><
+<img src="https://i.imgur.com/PY3xCky.png"/>
+<img src="https://i.imgur.com/LfyoDWp.png"/>
+<img src="https://i.imgur.com/ReRyBmz.png"/>
+<img src="https://i.imgur.com/Gwiqrik.png"/>
+<img src="https://i.imgur.com/MtvvXyW.png"/>
+<img src="https://i.imgur.com/WhxwJde.png"/>
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
@@ -76,7 +77,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Diagrama de Casos de Uso
 
-<a href="https://imgur.com/fvoKzOh"><img src="https://i.imgur.com/fvoKzOh.jpg" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/fvoKzOh.jpg"/>
 
 ## Resolvendo Problemas :exclamation:
 
