@@ -47,10 +47,16 @@
 
 ## Requisitos não funcionais
 
-<p>-Sem dompinio do site, apenas no github;</p>
-<p>-Segurança de dados, ao preencher formuário;</p>
+
 <p>-Manutenibilidade com facilidade de atualização;</p>
 <p>-Tem capacidade de crescimento, para lidar com o aumento no número de usuários ou conteúdo.</p>
+<p>-Deve ser implementado em HTML e JAVASCRIPT</p>
+<p>-DISPONIBILIDADE - O site deve estar online 24h por dia. (Porque está hospedado)</p>
+<p>-COMPATIBILIDADE - Deve ser compatível com os principais sistemas operacionais. (Através do browser)</p>
+<p>-RESPONSIVIDADE - Deve ser adaptável aos principais tamanhos de tela.</p>
+<p>-USABILIDADE - Desingn intuitivo. </p>
+<p>-SEGURANÇA DE DADOS - Ao preencher formulário;</p>
+<p>-MANUTENIBILIDADE - Facilidade de atualização;</p>
 
 ## Layout ou Deploy da Aplicação :dash:
 
@@ -62,8 +68,6 @@
 <img src="https://i.imgur.com/Gwiqrik.png"/>
 <img src="https://i.imgur.com/MtvvXyW.png"/>
 <img src="https://i.imgur.com/WhxwJde.png"/>
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
