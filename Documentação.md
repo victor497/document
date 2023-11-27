@@ -35,7 +35,7 @@
 
  <p>O site tenta apresentar, de forma clara, direta e intuitiva, os serviços desenvolvidos e prestados na instituição. Apresenta um “cartão de visita” que chama a atenção para quem está atrás de realizar uma boa ação, doar ou fazer parte.</p>
  
-<p>O site foi feito e direcionado para todas as pessoas que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto, sediado em Aracaju - Sergipe.</p>
+<p>Feito e direcionado para todas as pessoas que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto, sediado em Aracaju - Sergipe.</p>
 
 ## Requisitos Funcionais
 
