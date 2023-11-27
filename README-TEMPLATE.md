@@ -76,7 +76,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Diagrama de Casos de Uso
 
-...
+<a href="https://imgur.com/fvoKzOh"><img src="https://i.imgur.com/fvoKzOh.jpg" title="source: imgur.com" /></a>
 
 ## Resolvendo Problemas :exclamation:
 
