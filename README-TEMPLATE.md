@@ -50,7 +50,14 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-<img src="https://i.imgur.com/yB2C5n6.jpg"/>
+<a href="https://imgur.com/MFTZsmR"><img src="https://i.imgur.com/MFTZsmR.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/zCnOj5Y"><img src="https://i.imgur.com/zCnOj5Y.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/PY3xCky"><img src="https://i.imgur.com/PY3xCky.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/LfyoDWp"><img src="https://i.imgur.com/LfyoDWp.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ReRyBmz"><img src="https://i.imgur.com/ReRyBmz.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Gwiqrik"><img src="https://i.imgur.com/Gwiqrik.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/UBVb8RE"><img src="https://i.imgur.com/UBVb8RE.png" title="source: imgur.com" /></a>
+
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
