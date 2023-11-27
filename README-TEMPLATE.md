@@ -39,21 +39,21 @@
 
 ## Requisitos Funcionais
 
-<p>-Inserir dados no Formulário de Pré cadastro;</p>
-<p>-Realizar doações através do QR code e do codigo do pix;</p>
-<p>-Consultar a localização do instituto;</p>
-<p>-Acessar os links por redirecionamento nos ícones das redes sociais;</p>
-<p>-Visualizar e realizar o cadastro no formulário de vagas de voluntáriado.</p>
+<p>• Inserir dados no Formulário de Pré cadastro;</p>
+<p>• Realizar doações através do QR code e do codigo do pix;</p>
+<p>• Consultar a localização do instituto;</p>
+<p>• Acessar os links por redirecionamento nos ícones das redes sociais;</p>
+<p>• Visualizar e realizar o cadastro no formulário de vagas de voluntáriado.</p>
 
 ## Requisitos não funcionais
 
-<p>-Deve ser implementado em HTML e JAVASCRIPT</p>
-<p>-DISPONIBILIDADE - O site deve estar online 24h por dia. (Porque está hospedado)</p>
-<p>-COMPATIBILIDADE - Deve ser compatível com os principais sistemas operacionais. (Através do browser)</p>
-<p>-RESPONSIVIDADE - Deve ser adaptável aos principais tamanhos de tela.</p>
-<p>-USABILIDADE - Desingn intuitivo. </p>
-<p>-SEGURANÇA DE DADOS - Ao preencher formulário;</p>
-<p>-MANUTENIBILIDADE - Facilidade de atualização;</p>
+<p>• Deve ser implementado em HTML e JAVASCRIPT</p>
+<p>• DISPONIBILIDADE - O site deve estar online 24h por dia. (Porque está hospedado)</p>
+<p>• COMPATIBILIDADE - Deve ser compatível com os principais sistemas operacionais. (Através do browser)</p>
+<p>• RESPONSIVIDADE - Deve ser adaptável aos principais tamanhos de tela.</p>
+<p>• USABILIDADE - Desingn intuitivo. </p>
+<p>• SEGURANÇA DE DADOS - Ao preencher formulário;</p>
+<p>• MANUTENIBILIDADE - Facilidade de atualização;</p>
 
 ## Layout ou Deploy da Aplicação :dash:
 
