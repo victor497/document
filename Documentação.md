@@ -52,7 +52,6 @@
 <p>• COMPATIBILIDADE - Deve ser compatível com os principais sistemas operacionais. (Através do browser)</p>
 <p>• RESPONSIVIDADE - Deve ser adaptável aos principais tamanhos de tela.</p>
 <p>• USABILIDADE - Desingn intuitivo. </p>
-<p>• SEGURANÇA DE DADOS - Ao preencher formulário;</p>
 <p>• MANUTENIBILIDADE - Facilidade de atualização;</p>
 
 ## Layout ou Deploy da Aplicação :dash:
