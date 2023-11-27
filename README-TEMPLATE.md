@@ -60,7 +60,7 @@
 <a href="https://imgur.com/ReRyBmz"><img src="https://i.imgur.com/ReRyBmz.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/Gwiqrik"><img src="https://i.imgur.com/Gwiqrik.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/MtvvXyW"><img src="https://i.imgur.com/MtvvXyW.png" title="source: imgur.com" /></a>
-
+<a href="https://imgur.com/WhxwJde"><img src="https://i.imgur.com/WhxwJde.png" title="source: imgur.com" /></a>
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
