@@ -77,7 +77,7 @@
 
 ## Diagrama de Casos de Uso
 
-<img src="https://i.imgur.com/fvoKzOh.jpg"/>
+<img src="https://i.imgur.com/7ahAk75.jpg"/>
 
 ## Resolvendo Problemas :exclamation:
 
