@@ -48,7 +48,7 @@
 ## Requisitos não funcionais
 
 <p>-Sem dompinio do site, apenas no github;</p>
-<p>-Segunrança de dados, ao preencher formuário;</p>
+<p>-Segurança de dados, ao preencher formuário;</p>
 <p>-Manutenibilidade com facilidade de atualização;</p>
 <p>-Tem capacidade de crescimento, para lidar com o aumento no número de usuários ou conteúdo.</p>
 
