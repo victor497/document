@@ -47,9 +47,6 @@
 
 ## Requisitos não funcionais
 
-
-<p>-Manutenibilidade com facilidade de atualização;</p>
-<p>-Tem capacidade de crescimento, para lidar com o aumento no número de usuários ou conteúdo.</p>
 <p>-Deve ser implementado em HTML e JAVASCRIPT</p>
 <p>-DISPONIBILIDADE - O site deve estar online 24h por dia. (Porque está hospedado)</p>
 <p>-COMPATIBILIDADE - Deve ser compatível com os principais sistemas operacionais. (Através do browser)</p>
